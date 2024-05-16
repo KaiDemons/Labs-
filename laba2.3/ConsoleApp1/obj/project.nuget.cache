@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRZY+9sTtil5bJwZvXgC/fCOMZjxkyFnWrm97YzYInvlHPR85kv/MAvqcJAJ5bEns34owAjGjCXHsyydO2MHNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\2.3\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KaiDemons\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\KaiDemons\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\KaiDemons\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
