@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRZY+9sTtil5bJwZvXgC/fCOMZjxkyFnWrm97YzYInvlHPR85kv/MAvqcJAJ5bEns34owAjGjCXHsyydO2MHNQ==",
+  "dgSpecHash": "mqKAVK3330fTbXR0cl4U1Mfv39uJwO+jIwrXwooxPbmQdxfPveZytI7xOYwbOl/yYh3kcJDR72NQAo8LqkYULQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\2.3\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\laba2.3\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KaiDemons\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\KaiDemons\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",

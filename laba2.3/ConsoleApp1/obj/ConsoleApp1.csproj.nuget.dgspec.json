@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\2.3\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\laba2.3\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\2.3\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\laba2.3\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\2.3\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\laba2.3\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\2.3\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\laba2.3\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\KaiDemons\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\2.3\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\KaiDemons\\RiderProjects\\LABS\\laba2.3\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KaiDemons\\AppData\\Roaming\\NuGet\\NuGet.Config"

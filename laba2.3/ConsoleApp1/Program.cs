@@ -3,7 +3,13 @@
 class Program
 {
     static void Main(string[] args)
-    { 
+    {       
+            Console.WriteLine("Enter your login: ");
+            var login = Console.ReadLine();
+            Console.WriteLine("Enter your password: ");
+            var password = Console.ReadLine();
+            int idUser = DatabaseRequests.isThereUser(login,password);
+        
             while(true)
             {
                 Console.WriteLine("1. Add task: ");
@@ -62,23 +68,23 @@ class Program
                         break;
                     case "4":
                         Console.WriteLine("Tasks for today: ");
-                        DatabaseRequests.ViewTasksForToday();
+                        DatabaseRequests.ViewTasksForToday(idUser);
                         break;
                     case "5":
                         Console.WriteLine("Tasks for tomorrow: ");
-                        DatabaseRequests.ViewTasksForTomorrow();
+                        DatabaseRequests.ViewTasksForTomorrow(idUser);
                         break;
                     case "6":
                         Console.WriteLine("Tasks for this week: ");
-                        DatabaseRequests.ViewTasksForThisWeek();
+                        DatabaseRequests.ViewTasksForThisWeek(idUser);
                         break;
                     case "7":
                         Console.WriteLine("All tasks: ");
-                        DatabaseRequests.ViewAllTasks();
+                        DatabaseRequests.ViewAllTasks(idUser);
                         break;
                     case "8":
                         Console.WriteLine("Completed tasks: ");
-                        DatabaseRequests.ViewCompletedTasks();
+                        DatabaseRequests.ViewCompletedTasks(idUser);
                         break;
                     case "0":
                         return;
